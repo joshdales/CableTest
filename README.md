@@ -1,24 +1,4 @@
-# README
+# Very basic ActionCable test
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Following onehub's tutorial for creating a notification system with ActionCable
+[Can be found here](https://www.onehub.com/blog/2016/02/18/event-notifications-in-rails-5-with-actioncable/)
